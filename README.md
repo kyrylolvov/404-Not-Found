@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [My Website](https://profile.codersrank.io/user/kyrylolvov/)
-- GitHub [My GitHub](https://github.com/kyrylolvov)
+- Website [CodersRank](https://profile.codersrank.io/user/kyrylolvov/)
+- GitHub [@kyrylolvov](https://github.com/kyrylolvov)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
