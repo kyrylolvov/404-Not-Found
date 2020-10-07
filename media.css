@@ -1,0 +1,134 @@
+@media only screen 
+and (min-device-width : 1024px) 
+and (max-device-width : 1224px) {
+    #MainText{
+        margin: 0rem 0rem 0rem 4rem;
+    }
+    h1{
+        font-size: 55px;
+        line-height: 65px;
+    }
+    #SmallText{
+        font-size: 22px;
+        line-height: 30px;
+    }
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+    img{
+        height: 400px;
+        width: 100%;
+        }
+    #MainText{
+        margin: 0rem 0rem 0rem 3rem;
+    }
+    h1{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    #SmallText{
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
+
+@media only screen 
+and (min-device-width : 600px) 
+and (max-device-width : 768px)  {
+    img{
+        height: 400px;
+        width: 100%;
+        }
+    #MainText{
+        margin: 0rem 0rem 0rem 3rem;
+    }
+    h1{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    #SmallText{
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
+
+@media only screen 
+and (min-device-width : 480px) 
+and (max-device-width : 600px)  {
+    img{
+        height: 400px;
+        width: 100%;
+        }
+    #MainText{
+        margin: 0rem 0rem 0rem 3rem;
+    }
+    h1{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    #SmallText{
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px)  {
+    main{
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .MainSection{
+        text-align: center;
+    }
+    h1{
+        font-size: 70px;
+        text-align: lef;
+        width: 90%;
+    }
+    #SmallText{
+        font-size: 35px;
+        text-align: left;
+        width: 90%;
+    }
+    .hvr-sweep-to-right{
+        width: 316px;
+        height: 88px;
+        font-size: 20px;
+    }
+}
+
+@media only screen 
+and (max-device-width : 320px)  {
+    main{
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .MainSection{
+        text-align: center;
+    }
+    h1{
+        margin-top: 10vw;
+        margin-bottom: 10vw;
+        font-size: 70px;
+        text-align: lef;
+        width: 90%;
+    }
+    #SmallText{
+        font-size: 30px;
+        text-align: left;
+        margin-bottom: 10vw;
+        width: 90%;
+    }
+    .hvr-sweep-to-right{
+        width: 316px;
+        height: 88px;
+        font-size: 20px;
+    }
+}
+}
