@@ -1,4 +1,5 @@
 #TopText{
+#TopText{
 margin: 2.5rem 0em 2.5rem 4rem;
 color: #333333;
 font-family: Inconsolata;
@@ -13,7 +14,7 @@ text-align: left;
 main{
 display: flex;
 justify-content: center;
-margin: 6.25rem 2.5rem 17.5rem 2.5rem;
+margin: 6.25rem 2.5rem 10rem 2.5rem;
 }
 
 #MainText{
